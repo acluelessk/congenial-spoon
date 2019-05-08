@@ -1,4 +1,6 @@
 # congenial-spoon
 Hello World!
 
-Commit to the git!
+Commit to the git
+Git committing
+
